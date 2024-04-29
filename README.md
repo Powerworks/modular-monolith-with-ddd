@@ -177,7 +177,7 @@ My primary focus in this project is on quality. Creating a good quality product 
 
 ### 1.6 Share It
 
-There are very few really good examples of this type of application. If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
+There are very few really good examples of this type of application. If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful. WP
 
 ## 2. Domain
 
